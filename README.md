@@ -12,3 +12,5 @@ https://SadboiTay.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Taylor Hakes
+
+### ©️2019 Run Buddy, Inc 
